@@ -1,0 +1,1 @@
+MainPackage=C:\Users\JetSoft\Desktop\ChiasenhacUniversal\ChiasenhacUniversal\bin\x64\Release\ChiasenhacUniversal_1.2.1.0_x64.appx

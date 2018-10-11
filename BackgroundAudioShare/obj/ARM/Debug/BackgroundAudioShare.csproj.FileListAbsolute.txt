@@ -1,0 +1,51 @@
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.dll
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.pdb
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.pri
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.csprojResolveAssemblyReference.cache
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.dll
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.pdb
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\priconfig.xml
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\layout.resfiles
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\layout.resfiles.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\resources.resfiles
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\pri.resfiles
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\qualifiers.txt
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.pri
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\priconfig.xml
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\layout.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\resources.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\pri.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\qualifiers.txt
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.csprojResolveAssemblyReference.cache
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\bin\ARM\Debug\BackgroundAudioShare.pri
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.csprojResolveAssemblyReference.cache
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\priconfig.xml
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\layout.resfiles
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\resources.resfiles
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\pri.resfiles
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\qualifiers.txt
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

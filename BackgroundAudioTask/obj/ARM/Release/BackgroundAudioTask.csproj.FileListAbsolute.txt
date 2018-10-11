@@ -1,0 +1,112 @@
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.winmd
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pdb
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pri
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.dll
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pdb
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pri
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.csprojResolveAssemblyReference.cache
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmd
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.pdb
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmdobj
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.compile.pdb
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\ResourceHandlingTask.state
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\My PC\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.winmd
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pri
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.dll
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pri
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.csprojResolveAssemblyReference.cache
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmd
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmdobj
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.compile.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.winmd
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pdb
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pri
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.dll
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pdb
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pri
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.csprojResolveAssemblyReference.cache
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmd
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.pdb
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmdobj
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.compile.pdb
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\ResourceHandlingTask.state
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\JetSoft\Desktop\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.winmd
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pdb
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pri
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.dll
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pdb
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pri
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.csprojResolveAssemblyReference.cache
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmd
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.pdb
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmdobj
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.compile.pdb
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt.intermediate
+D:\Work\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.winmd
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pdb
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioTask.pri
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.dll
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pdb
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\bin\ARM\Release\BackgroundAudioShare.pri
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.csprojResolveAssemblyReference.cache
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmd
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.pdb
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.winmdobj
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\BackgroundAudioTask.compile.pdb
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\info\Desktop\CSN\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioTask\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt

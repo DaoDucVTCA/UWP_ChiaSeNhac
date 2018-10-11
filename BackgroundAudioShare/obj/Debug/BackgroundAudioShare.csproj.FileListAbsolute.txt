@@ -1,0 +1,16 @@
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\Debug\BackgroundAudioShare.pri
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\priconfig.xml
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\priconfig.xml.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\layout.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\layout.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\resources.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\resources.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\pri.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\pri.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\qualifiers.txt
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\qualifiers.txt.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\Debug\MultipleQualifiersPerDimensionFound.txt

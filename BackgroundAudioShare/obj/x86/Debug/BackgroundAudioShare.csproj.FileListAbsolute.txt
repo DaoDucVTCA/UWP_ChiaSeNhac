@@ -1,0 +1,69 @@
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.pri
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\priconfig.xml
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\layout.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\resources.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\pri.resfiles
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\qualifiers.txt
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\nasa1\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.csprojResolveAssemblyReference.cache
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.pri
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.csprojResolveAssemblyReference.cache
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.dll
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.pdb
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\priconfig.xml
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\layout.resfiles
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\resources.resfiles
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\pri.resfiles
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\qualifiers.txt
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\nasa1\AppData\Roaming\Skype\My Skype Received Files\ChiasenhacUniversal\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.dll
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.pdb
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.pri
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.csprojResolveAssemblyReference.cache
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.dll
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.pdb
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\priconfig.xml
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\layout.resfiles
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\resources.resfiles
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\pri.resfiles
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\qualifiers.txt
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\DVD_NASA\OneDrive\Jesoft_Projects\Project_Windows10\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.dll
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.pdb
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\bin\x86\Debug\BackgroundAudioShare.pri
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.csprojResolveAssemblyReference.cache
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.csproj.CoreCompileInputs.cache
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.dll
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\BackgroundAudioShare.pdb
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\priconfig.xml
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\priconfig.xml.intermediate
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\layout.resfiles
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\layout.resfiles.intermediate
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\resources.resfiles
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\resources.resfiles.intermediate
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\pri.resfiles
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\pri.resfiles.intermediate
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\qualifiers.txt
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Teach\UWP\ChiasenhacUniversal\BackgroundAudioShare\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

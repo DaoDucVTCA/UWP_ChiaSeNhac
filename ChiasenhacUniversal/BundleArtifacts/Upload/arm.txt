@@ -1,0 +1,5 @@
+MainPackage=C:\Users\JetSoft\Desktop\ChiasenhacUniversal\ChiasenhacUniversal\bin\ARM\Release\Upload\ChiasenhacUniversal_1.2.1.0_ARM.appx
+ResourcePack=C:\Users\JetSoft\Desktop\ChiasenhacUniversal\ChiasenhacUniversal\_scale-100.appx
+ResourcePack=C:\Users\JetSoft\Desktop\ChiasenhacUniversal\ChiasenhacUniversal\_scale-125.appx
+ResourcePack=C:\Users\JetSoft\Desktop\ChiasenhacUniversal\ChiasenhacUniversal\_scale-150.appx
+ResourcePack=C:\Users\JetSoft\Desktop\ChiasenhacUniversal\ChiasenhacUniversal\_scale-400.appx

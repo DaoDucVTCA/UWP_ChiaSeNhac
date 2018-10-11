@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="ChiasenhacUniversal.Pages.Favorite"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ChiasenhacUniversal.Pages"
+    xmlns:ctl="using:ChiasenhacUniversal.Controls"
+    xmlns:pubcenter="using:Microsoft.Advertising.WinRT.UI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <CollectionViewSource x:Name="cvListFavorite"></CollectionViewSource>
+    </Page.Resources>
+    
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ctl:PageHeader Grid.ColumnSpan="2">
+            <ctl:PageHeader.HeaderContent>
+                <TextBlock Text="Yêu thích" FontWeight="SemiBold" FontSize="20" Style="{ThemeResource PageTitleTextBlockStyle}" TextWrapping="NoWrap" Margin="10,0,12,4"/>
+            </ctl:PageHeader.HeaderContent>
+        </ctl:PageHeader>
+        
+        <ListView Grid.Row="1" Name="grvFavoriteSongs" ItemsSource="{Binding Source={StaticResource cvListFavorite}}" SelectionMode="None" IsItemClickEnabled="True" ItemClick="grvFavoriteSongs_ItemClick">
+            <ListView.Footer>
+                <Grid Height="170">
+                  
+
+                </Grid>
+            </ListView.Footer>
+            <ListView.ItemContainerTransitions>
+                <TransitionCollection>
+                    <EntranceThemeTransition />
+                </TransitionCollection>
+            </ListView.ItemContainerTransitions>
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <Setter Property="VerticalContentAlignment" Value="Top"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="0,0,0 8">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Ellipse Height="100" Width="100">
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="{Binding music_img}"></ImageBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <Grid Grid.Column="1" Margin="12,0,0,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition></RowDefinition>
+                                <RowDefinition></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0" Text="{Binding music_title}" VerticalAlignment="Bottom" TextWrapping="WrapWholeWords" FontWeight="Bold"></TextBlock>
+                            <TextBlock Grid.Row="1" Text="{Binding music_artist}" VerticalAlignment="Top" ></TextBlock>
+                        </Grid>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>

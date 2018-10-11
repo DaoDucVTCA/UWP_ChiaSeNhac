@@ -1,0 +1,307 @@
+﻿<Page x:Class="ChiasenhacUniversal.Pages.NowPlayingMobile"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:ChiasenhacUniversal.Pages"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+
+    <Page.Resources>
+        <MenuFlyout x:Key="MenuFlyout">
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="32kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="128kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="320kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="m4a" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="flac" />
+        </MenuFlyout>
+
+        <MenuFlyout x:Key="DownloadFlyout">
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click_1" Text="32kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click_1" Text="128kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click_1" Text="320kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click_1" Text="m4a" />
+        </MenuFlyout>
+    </Page.Resources>
+
+    <Grid Name="griMain" SizeChanged="Grid_SizeChanged">
+        <Grid.Background>
+            <ImageBrush x:Name="ibBackground"
+                        ImageFailed="ibBackground_ImageFailed"
+                        Opacity="0.6"
+                        Stretch="UniformToFill" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="0.6*" />
+            <RowDefinition Height="0.01*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.Background>
+                <SolidColorBrush Opacity="0.5" Color="Black" />
+            </Grid.Background>
+            <Pivot Name="pvInfo">
+                <PivotItem Margin="0">
+                    <Grid>
+                        <ScrollViewer Name="svLyric">
+                            <TextBlock Name="tblLyric"
+                                       Margin="12,0,0,0"
+                                       FontSize="20"
+                                       Foreground="White"
+                                       IsTextSelectionEnabled="True"
+                                       TextWrapping="Wrap" />
+                        </ScrollViewer>
+                    </Grid>
+                </PivotItem>
+                <PivotItem Margin="0" />
+                <PivotItem Margin="0">
+                    <Grid Name="griListSong">
+                        <ListView Name="lvSongs"
+                                  IsItemClickEnabled="True"
+                                  ItemClick="lvSongs_ItemClick">
+                            <ListView.ItemContainerTransitions>
+                                <TransitionCollection>
+                                    <EntranceThemeTransition />
+                                </TransitionCollection>
+                            </ListView.ItemContainerTransitions>
+                            <ListView.ItemContainerStyle>
+                                <Style TargetType="ListViewItem">
+                                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                                </Style>
+                            </ListView.ItemContainerStyle>
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid Margin="0, 5, 0, 15">
+                                        <StackPanel Orientation="Horizontal">
+                                            <Grid Grid.Column="0"
+                                                  Width="20"
+                                                  Margin="0,0,5,0"
+                                                  VerticalAlignment="Center">
+                                                <TextBlock HorizontalAlignment="Center"
+                                                           VerticalAlignment="Center"
+                                                           FontSize="11"
+                                                           FontWeight="Bold"
+                                                           Foreground="White"
+                                                           Text="{Binding id}" />
+                                            </Grid>
+                                            <Grid Margin="10,0,0,0" HorizontalAlignment="Left">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition />
+                                                    <RowDefinition />
+                                                </Grid.RowDefinitions>
+                                                <TextBlock Grid.Row="0"
+                                                           VerticalAlignment="Center"
+                                                           FontWeight="SemiBold"
+                                                           Foreground="White"
+                                                           Text="{Binding music_title}"
+                                                           TextTrimming="WordEllipsis" />
+                                                <TextBlock Grid.Row="1"
+                                                           VerticalAlignment="Top"
+                                                           Foreground="White"
+                                                           Text="{Binding music_artist}"
+                                                           TextTrimming="WordEllipsis" />
+                                            </Grid>
+                                        </StackPanel>
+                                    </Grid>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </Grid>
+                </PivotItem>
+            </Pivot>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.Background>
+                <SolidColorBrush Opacity="0.5" Color="Black" />
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="0.4*" />
+                <RowDefinition Height="0.35*" />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition Height="0.8*" />
+                </Grid.RowDefinitions>
+                <RichTextBlock Name="tblSongTitle"
+                               Margin="0,0,0,7"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Bottom"
+                               FontSize="25"
+                               FontWeight="SemiBold"
+                               Foreground="White"
+                               TextTrimming="WordEllipsis">
+                    <Paragraph>
+                        <Hyperlink x:Name="hylTitle"
+                                   Click="hylTitle_Click"
+                                   FontSize="25"
+                                   FontWeight="SemiBold"
+                                   Foreground="White"
+                                   UnderlineStyle="None">
+                            <Run x:Name="ruSongTitle" />
+                        </Hyperlink>
+                    </Paragraph>
+                </RichTextBlock>
+                <RichTextBlock Grid.Row="1"
+                               HorizontalAlignment="Center"
+                               FontSize="13"
+                               Foreground="White">
+                    <Paragraph>
+                        <Hyperlink x:Name="hylArtist"
+                                   Click="hylArtist_Click"
+                                   FontSize="13"
+                                   Foreground="White"
+                                   UnderlineStyle="None">
+                            <Run x:Name="ruSongArtist" />
+                        </Hyperlink>
+                        <Run Text=" * " />
+                        <Hyperlink x:Name="hylAlbum"
+                                   Click="hylAlbum_Click"
+                                   FontSize="13"
+                                   Foreground="White"
+                                   UnderlineStyle="None">
+                            <Run x:Name="ruSongAlbum" />
+                        </Hyperlink>
+                    </Paragraph>
+                </RichTextBlock>
+                <Grid Grid.Row="2">
+                    <TextBlock Name="tblNowPlayingTime"
+                               Margin="10,-10,0,0"
+                               HorizontalAlignment="Left"
+                               VerticalAlignment="Top"
+                               FontSize="13"
+                               Foreground="White" />
+                    <TextBlock Name="tblNowPlayingLenght"
+                               Margin="0,-10,10,0"
+                               HorizontalAlignment="Right"
+                               VerticalAlignment="Top"
+                               FontSize="13"
+                               Foreground="White" />
+                    <Slider Name="sliderTime"
+                            Margin="7,0,7,0"
+                            IsTapEnabled="True"
+                            ManipulationCompleted="sliderTime_ManipulationCompleted"
+                            ManipulationMode="TranslateX"
+                            Tapped="sliderTime_Tapped" />
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Viewbox Name="vbShuffle"
+                         Grid.Column="0"
+                         MaxWidth="25"
+                         MaxHeight="25"
+                         Tapped="vbShuffle_Tapped">
+                    <SymbolIcon Name="sbiShuffle"
+                                Foreground="White"
+                                Symbol="Shuffle" />
+                </Viewbox>
+                <Viewbox Name="vbPrevious"
+                         Grid.Column="1"
+                         MaxWidth="35"
+                         MaxHeight="35"
+                         Tapped="vbPrevious_Tapped">
+                    <SymbolIcon Name="sbiPrevious"
+                                Foreground="White"
+                                Symbol="Previous" />
+                </Viewbox>
+                <Viewbox Name="vbPlay"
+                         Grid.Column="2"
+                         MaxWidth="40"
+                         MaxHeight="40"
+                         Tapped="vbPlay_Tapped">
+                    <SymbolIcon Name="sbiPlay"
+                                Foreground="White"
+                                Symbol="Play" />
+                </Viewbox>
+                <Viewbox Name="vbNext"
+                         Grid.Column="3"
+                         MaxWidth="35"
+                         MaxHeight="35"
+                         Tapped="vbNext_Tapped">
+                    <SymbolIcon Name="sbiNext"
+                                Foreground="White"
+                                Symbol="Next" />
+                </Viewbox>
+                <Viewbox Name="vbRepeat"
+                         Grid.Column="4"
+                         MaxWidth="25"
+                         MaxHeight="25"
+                         Tapped="vbRepeat_Tapped">
+                    <SymbolIcon Name="sbiRepeat"
+                                Foreground="White"
+                                Symbol="RepeatAll" />
+                </Viewbox>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Viewbox Name="vbFavorite"
+                         Grid.Column="0"
+                         MaxWidth="20"
+                         MaxHeight="20"
+                         Tapped="vbFavorite_Tapped">
+                    <SymbolIcon Name="sbiFavorite"
+                                Foreground="White"
+                                Symbol="OutlineStar" />
+                </Viewbox>
+                <Viewbox Name="vbShare"
+                         Grid.Column="1"
+                         MaxWidth="20"
+                         MaxHeight="20"
+                         Tapped="vbShare_Tapped">
+                    <SymbolIcon Foreground="White" Symbol="World" />
+                </Viewbox>
+                <Viewbox Name="vbDownload"
+                         Grid.Column="2"
+                         MaxWidth="20"
+                         MaxHeight="20"
+                         FlyoutBase.AttachedFlyout="{StaticResource DownloadFlyout}"
+                         Tapped="vbDownload_Tapped">
+                    <SymbolIcon Foreground="White" Symbol="Download" />
+                </Viewbox>
+                <Viewbox Name="griBitrate"
+                         Grid.Column="3"
+                         MaxWidth="50"
+                         MaxHeight="50"
+                         FlyoutBase.AttachedFlyout="{StaticResource MenuFlyout}"
+                         Tapped="griBitrate_Tapped">
+                    <TextBlock Name="tblQuality"
+                               VerticalAlignment="Center"
+                               Foreground="White"
+                               Text="128kbs" />
+                </Viewbox>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.Background>
+                <SolidColorBrush Opacity="0.5" Color="Black" />
+            </Grid.Background>
+        </Grid>
+        <Grid Name="griNoti"
+              Height="80"
+              HorizontalAlignment="Center"
+              VerticalAlignment="Top"
+              Visibility="Collapsed">
+            <TextBlock HorizontalAlignment="Left"
+                       VerticalAlignment="Center"
+                       FontSize="24"
+                       FontWeight="SemiBold"
+                       Foreground="White"
+                       Text="Bài hát hiện chưa hỗ trợ chất lượng này!"
+                       TextWrapping="Wrap" />
+        </Grid>
+    </Grid>
+</Page>

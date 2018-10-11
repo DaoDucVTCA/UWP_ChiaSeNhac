@@ -1,0 +1,228 @@
+﻿<Page x:Class="ChiasenhacUniversal.Pages.BXH"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:ctl="using:ChiasenhacUniversal.Controls"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:ChiasenhacUniversal.Pages"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:pubcenter="using:Microsoft.Advertising.WinRT.UI"
+      mc:Ignorable="d">
+
+    <Page.Resources>
+        <MenuFlyout x:Key="MenuFlyout">
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="BXH Video" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="BXH Beat, Playback" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="BXH Nhạc Việt Nam" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="BXH Nhạc US-UK" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="BXH Nhạc Hàn" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click" Text="BXH Nhạc Hoa" />
+        </MenuFlyout>
+
+        <MenuFlyout x:Key="DownloadFlyout">
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click_1" Text="Download 32kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click_1" Text="Download 128kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click_1" Text="Download 320kbs" />
+            <MenuFlyoutItem Click="MenuFlyoutItem_Click_1" Text="Download m4a" />
+        </MenuFlyout>
+    </Page.Resources>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <ctl:PageHeader Grid.ColumnSpan="2" VerticalAlignment="Top">
+            <ctl:PageHeader.HeaderContent>
+                <TextBlock Margin="10,0,12,4"
+                           VerticalAlignment="Top"
+                           FontSize="20"
+                           FontWeight="SemiBold"
+                           Style="{ThemeResource PageTitleTextBlockStyle}"
+                           Text="BXH"
+                           TextTrimming="CharacterEllipsis"
+                           TextWrapping="NoWrap" />
+            </ctl:PageHeader.HeaderContent>
+        </ctl:PageHeader>
+
+        <Grid x:Name="grid" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.13*" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid Name="griTitleMenu"
+                  Grid.Row="0"
+                  HorizontalAlignment="Stretch"
+                  Background="{StaticResource SystemControlForegroundAccentBrush}"
+                  FlyoutBase.AttachedFlyout="{StaticResource MenuFlyout}"
+                  Tapped="griTitleMenu_Tapped">
+                <StackPanel HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Orientation="Horizontal">
+                    <TextBlock Name="tblBXHTitle"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               FontSize="24"
+                               Foreground="White"
+                               Text="BXH Video" />
+                    <Path Width="25"
+                          Height="25"
+                          Margin="10,0,0,0"
+                          Data="M285.305,0L285.305,75.710529 189.82141,152.64609 189.01901,153.30347 189.42913,153.64473 142.45632,191.5 95.465693,153.64473 0,76.69482 0,0.98785392 108.34008,88.30862 142.03731,115.4374 142.84418,114.79439 176.94702,87.302791z"
+                          Fill="White"
+                          RenderTransformOrigin="0.5,0.5"
+                          Stretch="Uniform">
+                        <Path.RenderTransform>
+                            <TransformGroup>
+                                <TransformGroup.Children>
+                                    <RotateTransform Angle="0" />
+                                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                                </TransformGroup.Children>
+                            </TransformGroup>
+                        </Path.RenderTransform>
+                    </Path>
+                </StackPanel>
+            </Grid>
+            <Grid Name="griVideos" Grid.Row="1">
+                <ProgressRing Name="prLoading"
+                              Width="80"
+                              Height="80"
+                              HorizontalAlignment="Center"
+                              VerticalAlignment="Center"
+                              IsActive="True"
+                              Visibility="Collapsed">
+                    <ProgressRing.Background>
+                        <SolidColorBrush Color="Transparent" />
+                    </ProgressRing.Background>
+                </ProgressRing>
+                <ListView Name="lvMusic"
+                          FlyoutBase.AttachedFlyout="{StaticResource DownloadFlyout}"
+                          Holding="lvMusic_Holding"
+                          IsItemClickEnabled="True"
+                          ItemClick="lvMusic_ItemClick"
+                          PointerPressed="lvMusic_PointerPressed"
+                          Visibility="Collapsed">
+                    <ListView.Footer>
+                        <Grid Height="170">
+                            
+                        </Grid>
+                    </ListView.Footer>
+                    <ListView.ItemContainerTransitions>
+                        <TransitionCollection>
+                            <EntranceThemeTransition />
+                        </TransitionCollection>
+                    </ListView.ItemContainerTransitions>
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem">
+                            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="0, 5, 0, 15">
+                                <StackPanel Orientation="Horizontal">
+                                    <Grid Grid.Column="0"
+                                          Width="20"
+                                          Margin="0,0,5,0"
+                                          VerticalAlignment="Center">
+                                        <TextBlock HorizontalAlignment="Center"
+                                                   VerticalAlignment="Center"
+                                                   FontSize="16"
+                                                   FontWeight="Bold"
+                                                   Text="{Binding id}" />
+                                    </Grid>
+                                    <Grid Margin="10,0,10,0" HorizontalAlignment="Left">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition />
+                                            <RowDefinition />
+                                            <RowDefinition />
+                                        </Grid.RowDefinitions>
+                                        <TextBlock Grid.Row="0"
+                                                   VerticalAlignment="Center"
+                                                   FontSize="20"
+                                                   FontWeight="SemiBold"
+                                                   Text="{Binding music_title}"
+                                                   TextTrimming="WordEllipsis" />
+                                        <TextBlock Grid.Row="1"
+                                                   Margin="0,8,0,0"
+                                                   VerticalAlignment="Top"
+                                                   Text="{Binding music_artist}"
+                                                   TextTrimming="WordEllipsis" />
+                                        <TextBlock Grid.Row="2" Margin="0,8,0,0">
+                                            <Run Text="{Binding music_length}" />
+                                            <Run Text=" / " />
+                                            <Run Foreground="Red" Text="{Binding music_bitrate}" />
+                                        </TextBlock>
+                                    </Grid>
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <ListView Name="lvVideo"
+                          Background="Transparent"
+                          IsItemClickEnabled="True"
+                          ItemClick="lvVideo_ItemClick">
+                    <ListView.Footer>
+                        <Grid Height="170">
+                           
+                        </Grid>
+                    </ListView.Footer>
+                    <ListView.ItemContainerTransitions>
+                        <TransitionCollection>
+                            <EntranceThemeTransition />
+                        </TransitionCollection>
+                    </ListView.ItemContainerTransitions>
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem">
+                            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="0, 5, 0, 15" Background="Transparent">
+                                <StackPanel Orientation="Horizontal">
+                                    <Grid Width="20"
+                                          Margin="0,0,5,0"
+                                          VerticalAlignment="Center">
+                                        <TextBlock HorizontalAlignment="Center"
+                                                   VerticalAlignment="Center"
+                                                   FontSize="11"
+                                                   FontWeight="Bold"
+                                                   Text="{Binding id}" />
+                                    </Grid>
+                                    <Grid Width="120" HorizontalAlignment="Left">
+                                        <Image HorizontalAlignment="Left" Source="{Binding thumbnail_url}" />
+                                        <TextBlock Margin="4,0,0,0"
+                                                   HorizontalAlignment="Left"
+                                                   VerticalAlignment="Bottom"
+                                                   FontSize="12"
+                                                   Foreground="White"
+                                                   Text="{Binding music_length}" />
+                                    </Grid>
+                                    <Grid Margin="10,0,0,0" HorizontalAlignment="Left">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition />
+                                            <RowDefinition />
+                                        </Grid.RowDefinitions>
+                                        <TextBlock Grid.Row="0"
+                                                   VerticalAlignment="Center"
+                                                   FontSize="20"
+                                                   FontWeight="SemiBold"
+                                                   Text="{Binding music_title}"
+                                                   TextTrimming="WordEllipsis" />
+                                        <TextBlock Grid.Row="1"
+                                                   VerticalAlignment="Top"
+                                                   FontSize="16"
+                                                   Text="{Binding music_artist}"
+                                                   TextTrimming="WordEllipsis" />
+                                    </Grid>
+                                </StackPanel>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
